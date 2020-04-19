@@ -1,0 +1,250 @@
+package game;
+
+public class final_game {
+
+	public static void main(String[] args) {
+		for (int i=1;i<=50;i++)
+		{
+ System.out.println();
+
+			 int a=1;
+			 int b=3;
+			 int ran1=(int)(Math.random()*(a+b-1)+a);
+			 
+			if (ran1==1)
+
+			     {
+			 	 String st="stone";
+			 	 System.out.println("random no. for player 1 denotes :"+st);
+			     }
+				 else if (ran1==2)
+				 {
+					 String pa="paper";
+				 	 System.out.println("random no. for player 1 denotes :"+pa);
+				 }
+				 else if (ran1==3)
+				 {
+					 String sc="scissors";
+				 	 System.out.println("random no. for player 1 denotes :"+sc);
+			     }
+			int p1=ran1;
+
+
+
+			int x=1;
+			int y=3;
+			int ran2=(int)(Math.random()*(x+y-1)+x);
+
+			if (ran2==1)
+
+			    {
+				 String st="stone";
+				 System.out.println("random no. for player 2 denotes :"+st);
+			    }
+				 else if (ran2==2)
+				 {
+					 String pa="paper";
+				 	 System.out.println("random no. for player 2 denotes :"+pa);
+				 }
+				 else if (ran2==3)
+				 {
+					 String sc="scissors";
+				 	 System.out.println("random no. for player 2 denotes :"+sc);
+			    }
+			int p2=ran2;
+
+
+
+			int p=1;
+			int q=3;
+			int ran3=(int)(Math.random()*(p+q-1)+p);
+
+			if (ran3==1)
+
+			    {
+				 String st="stone";
+				 System.out.println("random no. for player 3 denotes :"+st);
+			    }
+				 else if (ran3==2)
+				 {
+					 String pa="paper";
+				 	 System.out.println("random no. for player 3 denotes :"+pa);
+				 }
+				 else if (ran3==3)
+				 {
+					 String sc="scissors";
+				 	 System.out.println("random no. for player 3 denotes :"+sc);
+			    }
+			int p3=ran3;
+
+
+
+			int m=1;
+			int n=3;
+			int ran4=(int)(Math.random()*(m+n-1)+m);
+
+			if (ran4==1)
+
+			    {
+				 String st="stone";
+				 System.out.println("random no. for player 4 denotes :"+st);
+			    }
+			else	 if (ran4==2)
+				 {
+					 String pa="paper";
+				 	 System.out.println("random no. for player 4 denotes :"+pa);
+				 }
+				 else if (ran4==3)
+				 {
+					 String sc="scissors";
+				 	 System.out.println("random no. for player 4 denotes :"+sc);
+			    }
+			int p4=ran4;
+
+
+				
+			
+			
+		   
+		
+if ((p1==1&&p2==1)||(p1==2&&p2==2)||(p1==3&&p2==3))
+{
+	System.out.println("draw between player 1 and player 2");
+}
+
+
+
+				
+if ((p1==1&&p2==3)||(p1==2&&p2==1)||(p1==3&&p2==2))
+
+{
+	System.out.println("player 1 wins between player 1 and player 2");
+}
+
+
+
+
+if ((p1==1&&p2==2)||(p1==2&&p2==3)||(p1==3&&p2==1))
+{
+	System.out.println("player 2 wins between player 1 and player 2");
+}
+
+
+
+
+if ((p1==1&&p3==1)||(p1==2&&p3==2)||(p1==3&&p3==3))
+{
+	System.out.println("draw between player 1 and player 3");
+}
+
+
+
+
+if ((p1==1&&p3==3)||(p1==2&&p3==1)||(p1==3&&p3==2))
+{
+	System.out.println("player 1 wins between player 1 and player 3");
+}
+
+
+
+
+if ((p1==1&&p3==2)||(p1==2&&p3==3)||(p1==3&&p3==1))
+{
+	System.out.println("player 3 wins between player 1 and player 3");
+}
+
+
+
+
+if ((p1==1&&p4==1)||(p1==2&&p4==2)||(p1==3&&p4==3))
+{
+	System.out.println("draw between player 1 and player 4");
+}
+
+
+
+
+if ((p1==2&&p4==1)||(p1==3&&p4==2)||(p1==1&&p4==3))
+{
+	System.out.println("player 1 wins between player 1 and player 4");
+}
+
+
+
+
+if ((p1==1&&p4==2)||(p1==2&&p4==3)||(p1==3&&p4==1))
+{
+	System.out.println("player 4 wins between player 1 and player 4");
+}
+
+
+
+
+if ((p2==1&&p3==1)||(p2==2&&p3==2)||(p2==3&&p3==3))
+{
+	System.out.println("draw between player 2 and player 3");
+}
+
+
+
+
+if ((p2==1&&p3==3)||(p2==2&&p3==1)||(p2==3&&p3==2))
+{
+	System.out.println("player 2 wins between player 2 and player 3");
+}
+
+
+
+if ((p2==1&&p3==2)||(p2==2&&p3==3)||(p2==3&&p3==1))
+{
+	System.out.println("player 3 wins between player 2 and player 3");
+}
+
+
+
+if  ((p2==1&&p4==1)||(p2==2&&p4==2)||(p2==3&&p4==3))
+{
+	System.out.println("draw between player 2 and player 4");
+}
+
+
+
+if ((p2==1&&p4==3)||(p2==2&&p4==1)||(p2==3&&p4==2))
+{
+	System.out.println("player 2 wins bwtween player 2 and player 4");
+}
+
+
+
+if ((p2==1&&p4==2)||(p2==2&&p4==3)||(p2==3&&p4==1))
+{
+	System.out.println("player 4 wins between player 2 and player 4");
+}
+
+
+
+if  ((p3==1&&p4==1)||(p3==2&&p4==2)||(p3==3&&p4==3))
+{
+	System.out.println("draw between player 3 and player 4");
+}
+
+
+
+if  ((p3==1&&p4==3)||(p3==2&&p4==1)||(p3==3&&p4==2))
+
+{
+System.out.println("player 3 wins between player 3 and player 4");
+}
+
+
+
+if ((p3==1&&p4==2)||(p3==2&&p4==3)||(p3==3&&p4==1))
+{
+   System.out.println("player 4 wins between player 3 and player 4");
+}
+
+
+
+		}
+	}
+}

@@ -1,0 +1,549 @@
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+draw between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :stone
+draw between player 1 and player 2
+draw between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :paper
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :paper
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+draw between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 3 wins between player 2 and player 3
+draw between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :stone
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+draw between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :paper
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+draw between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :stone
+player 2 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :stone
+draw between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+draw between player 1 and player 2
+draw between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :stone
+draw between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+draw between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :stone
+draw between player 1 and player 2
+draw between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 4 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+draw between player 1 and player 2
+draw between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+draw between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :stone
+player 1 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :stone
+random no. for player 4 denotes :scissors
+draw between player 1 and player 2
+player 3 wins between player 1 and player 3
+draw between player 1 and player 4
+player 3 wins between player 2 and player 3
+draw between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+player 3 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :stone
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 4 wins between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 4 wins between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :stone
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :scissors
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+player 1 wins between player 1 and player 2
+player 1 wins between player 1 and player 3
+player 1 wins between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :scissors
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :scissors
+random no. for player 4 denotes :paper
+player 1 wins between player 1 and player 2
+draw between player 1 and player 3
+player 1 wins between player 1 and player 4
+player 3 wins between player 2 and player 3
+draw between player 2 and player 4
+player 3 wins between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :paper
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+draw between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+draw between player 2 and player 3
+draw between player 2 and player 4
+draw between player 3 and player 4
+
+random no. for player 1 denotes :paper
+random no. for player 2 denotes :scissors
+random no. for player 3 denotes :paper
+random no. for player 4 denotes :paper
+player 2 wins between player 1 and player 2
+draw between player 1 and player 3
+draw between player 1 and player 4
+player 2 wins between player 2 and player 3
+player 2 wins bwtween player 2 and player 4
+draw between player 3 and player 4
